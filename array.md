@@ -9,3 +9,16 @@ function array(arr){
 }
 console.log(array(arr))
 ```
+# Şul mysalyň while görnüşinde işlenilişi
+```
+let arr = [1, 2, 3, 4]
+function array(arr){
+    let k = 0;
+    while(k != arr.length){
+        k++
+        console.log(k)
+    }
+    return "isledi"
+}
+console.log(array(arr))
+```
