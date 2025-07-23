@@ -1,4 +1,4 @@
-1## For görnüşinde massivdaki sanlary 1 sanydan çykarýan
+## For görnüşinde massivdaki sanlary 1 sanydan çykarýan
 ```
 let arr = [1, 2, 3, 4]
 function array(arr){
