@@ -9,7 +9,7 @@ function array(arr){
 }
 console.log(array(arr))
 ```
-# Şul mysalyň while görnüşinde işlenilişi
+#### Şul mysalyň while görnüşinde işlenilişi
 ```
 let arr = [1, 2, 3, 4]
 function array(arr){
